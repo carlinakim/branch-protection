@@ -2,6 +2,8 @@
 
 A GitHub repository for us to use to practice branching and merging. Developed for use in the UBC DSCI 524 - Collaborative Software Development course.
 
+-testing master branch protection
+
 ## Usage:
 
 For example, to calculate the square root of 25:
